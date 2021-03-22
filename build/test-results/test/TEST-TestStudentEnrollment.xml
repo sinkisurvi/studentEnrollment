@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestStudentEnrollment" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-22T19:32:07" hostname="C02DT2RTMD6R" time="0.046">
-  <properties/>
-  <testcase name="testGetExamMap" classname="TestStudentEnrollment" time="0.012"/>
-  <testcase name="testStudentEnrolment" classname="TestStudentEnrollment" time="0.025"/>
-  <testcase name="testTopTenStudent" classname="TestStudentEnrollment" time="0.009"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
